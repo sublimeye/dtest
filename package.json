@@ -1,0 +1,30 @@
+{
+  "name": "dtest",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "koa": "^1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.1",
+    "supertest": "^1.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sublimeye/dtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sublimeye/dtest/issues"
+  },
+  "homepage": "https://github.com/sublimeye/dtest#readme"
+}
